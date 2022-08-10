@@ -16,3 +16,19 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer{
+  display: flex;
+  font-size: 30px;
+}
+
+.field{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.field .label{
+  font-size: 15px;
+}
